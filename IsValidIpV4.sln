@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsValidIpV4", "IsValidIpV4\IsValidIpV4.csproj", "{169526D2-B942-483B-8C5C-24187B454F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpV4Tests", "IpV4Tests\IpV4Tests.csproj", "{77730EB7-A88D-421F-817F-2DE8429CA165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169526D2-B942-483B-8C5C-24187B454F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169526D2-B942-483B-8C5C-24187B454F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169526D2-B942-483B-8C5C-24187B454F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169526D2-B942-483B-8C5C-24187B454F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77730EB7-A88D-421F-817F-2DE8429CA165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77730EB7-A88D-421F-817F-2DE8429CA165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77730EB7-A88D-421F-817F-2DE8429CA165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77730EB7-A88D-421F-817F-2DE8429CA165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D525579-4666-4978-85BB-E561A923BCF7}
+	EndGlobalSection
+EndGlobal
